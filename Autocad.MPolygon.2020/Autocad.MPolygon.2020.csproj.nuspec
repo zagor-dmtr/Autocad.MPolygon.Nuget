@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Autocad.MPolygon.2020</id>
+        <version>1.0.0</version>
+        <authors>Dmitriy Zagorulkin</authors>
+        <description>MPolygon library for Autodesk AutoCAD. Contains only AcMPolygonMGD.dll file.</description>
+        <releaseNotes>Initial release</releaseNotes>
+        <tags>Autodesk AutoCAD MPolygon 2020 SDK</tags>
+        <dependencies>
+            <group targetFramework=".NETFramework4.7" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="bin\Release\AcMPolygonMGD.dll" target="lib/net47" />
+    </files>
+</package>

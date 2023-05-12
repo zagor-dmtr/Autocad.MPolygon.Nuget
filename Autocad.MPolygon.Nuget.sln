@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocad.MPolygon.2019", "Autocad.MPolygon.2019\Autocad.MPolygon.2019.csproj", "{53C5DC4B-6021-4207-BE11-7B7856C7F3DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocad.MPolygon.2020", "Autocad.MPolygon.2020\Autocad.MPolygon.2020.csproj", "{17AFD61A-7255-4E55-AE5B-2290CD0B87FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocad.MPolygon.2021", "Autocad.MPolygon.2021\Autocad.MPolygon.2021.csproj", "{4422F0FD-3B66-4934-BE57-1254E453D6E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{53C5DC4B-6021-4207-BE11-7B7856C7F3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53C5DC4B-6021-4207-BE11-7B7856C7F3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53C5DC4B-6021-4207-BE11-7B7856C7F3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17AFD61A-7255-4E55-AE5B-2290CD0B87FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AFD61A-7255-4E55-AE5B-2290CD0B87FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AFD61A-7255-4E55-AE5B-2290CD0B87FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AFD61A-7255-4E55-AE5B-2290CD0B87FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4422F0FD-3B66-4934-BE57-1254E453D6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4422F0FD-3B66-4934-BE57-1254E453D6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4422F0FD-3B66-4934-BE57-1254E453D6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4422F0FD-3B66-4934-BE57-1254E453D6E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
