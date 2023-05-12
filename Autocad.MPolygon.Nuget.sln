@@ -6,6 +6,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocad.MPolygon.2020", "Au
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocad.MPolygon.2021", "Autocad.MPolygon.2021\Autocad.MPolygon.2021.csproj", "{4422F0FD-3B66-4934-BE57-1254E453D6E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocad.MPolygon.2022", "Autocad.MPolygon.2022\Autocad.MPolygon.2022.csproj", "{DC66CD42-41FD-4C2E-9DE0-6BB7112D1862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocad.MPolygon.2023", "Autocad.MPolygon.2023\Autocad.MPolygon.2023.csproj", "{D37535D6-C32E-4DEC-9E15-81EEEE03D409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocad.MPolygon.2024", "Autocad.MPolygon.2024\Autocad.MPolygon.2024.csproj", "{C9E4D618-F5EF-495B-93BE-18974635FA5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +30,17 @@ Global
 		{4422F0FD-3B66-4934-BE57-1254E453D6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4422F0FD-3B66-4934-BE57-1254E453D6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4422F0FD-3B66-4934-BE57-1254E453D6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC66CD42-41FD-4C2E-9DE0-6BB7112D1862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC66CD42-41FD-4C2E-9DE0-6BB7112D1862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC66CD42-41FD-4C2E-9DE0-6BB7112D1862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC66CD42-41FD-4C2E-9DE0-6BB7112D1862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37535D6-C32E-4DEC-9E15-81EEEE03D409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37535D6-C32E-4DEC-9E15-81EEEE03D409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37535D6-C32E-4DEC-9E15-81EEEE03D409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37535D6-C32E-4DEC-9E15-81EEEE03D409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E4D618-F5EF-495B-93BE-18974635FA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E4D618-F5EF-495B-93BE-18974635FA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E4D618-F5EF-495B-93BE-18974635FA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E4D618-F5EF-495B-93BE-18974635FA5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

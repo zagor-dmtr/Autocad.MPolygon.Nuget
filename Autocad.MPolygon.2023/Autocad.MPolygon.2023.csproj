@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net48</TargetFramework>
+        <PlatformTarget>x64</PlatformTarget>
+        <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="AcMPolygonMGD">
+        <HintPath>..\..\..\..\Work\SDK\AutoCAD\Additional 2023\AcMPolygonMGD.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>
